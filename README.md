@@ -9,7 +9,7 @@
   Seguir a foto para a criação das pastas -><br />
 </p>
 <div>
-<img src="https://github.com/KimberlyScaldaC/Trabalho01-Mobile/blob/main/Screenshot_27.png?raw=true" width="40%" />
+<img src="https://github.com/KimberlyScaldaC/SegundaProvaMobile/blob/main/prova2.png" width="40%" />
 </div>
 
 <span>
